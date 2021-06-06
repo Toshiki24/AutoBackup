@@ -1,0 +1,7 @@
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\bin\Debug\Monitoring.exe.config
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\bin\Debug\Monitoring.exe
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\bin\Debug\Monitoring.pdb
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\obj\Debug\Monitoring.csproj.AssemblyReference.cache
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\obj\Debug\Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\obj\Debug\Monitoring.exe
+C:\Users\toshiki\source\repos\AutoBackUp\Monitoring\obj\Debug\Monitoring.pdb
