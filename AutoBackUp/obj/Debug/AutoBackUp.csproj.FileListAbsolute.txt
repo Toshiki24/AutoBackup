@@ -1,9 +1,10 @@
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\AutoBackUp.exe.config
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\AutoBackUp.exe
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\AutoBackUp.pdb
-C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.csproj.AssemblyReference.cache
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.Properties.Resources.resources
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.csproj.GenerateResource.cache
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.csproj.CoreCompileInputs.cache
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.exe
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.pdb
+C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.Form1.resources
+C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.csproj.AssemblyReference.cache

@@ -14,8 +14,8 @@ namespace AutoBackUp
 {
     public partial class Form1 : Form
     {
-        private const string FILE_COPY = "FileCopy";
-        private const string FILE_COPY_PATH = "FileCopy.exe";
+        private const string MONITORING = "Monitoring";
+        private const string MONITORING_PATH = "Monitoring.exe";
 
         private const string BUTTON_STOP = "stop";
 
@@ -26,7 +26,7 @@ namespace AutoBackUp
             InitializeComponent();
 
             // サービスが起動しているか確認する
-            fileCopy = Process.GetProcessesByName(FILE_COPY);
+            fileCopy = Process.GetProcessesByName(MONITORING);
 
             // サービスが起動している場合はボタンの文字を変更する
             if (fileCopy.Length > 0)
@@ -55,7 +55,7 @@ namespace AutoBackUp
                 // startボタン押下
                 // -------------
                 // 別アプリの起動準備
-                string backUpPath = Path.Combine(Environment.CurrentDirectory, FILE_COPY_PATH);
+                string backUpPath = Path.Combine(Environment.CurrentDirectory, MONITORING_PATH);
                 ProcessStartInfo startInfo = new ProcessStartInfo(backUpPath);
 
                 // コマンドライン引数の設定

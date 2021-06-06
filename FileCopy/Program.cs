@@ -10,13 +10,34 @@ namespace FileCopy
     class Program
     {
         private const string CSV_FILE_NAME = "paths.csv";
+        private const string LOG = "log.txt";
 
         static void Main(string[] args)
         {
-            // コピーするファイルパスを取得する
-            var paths = ReadFile();
-            // ファイルをコピーする
-            var errorList = Copy(args[0],paths);
+            try
+            {
+                //テスト用
+                string copyPath = string.Empty;
+                if (args.Length > 0)
+                {
+                    copyPath = args[0] ?? @"C:\Users\toshiki\Desktop\test";
+                    LogOutput(new List<string> { "引数取れてない" });
+                }
+                else
+                {
+                    copyPath = @"C:\Users\toshiki\Desktop\test";
+                }
+                // コピーするファイルパスを取得する
+                var paths = ReadFile();
+                // ファイルをコピーする
+                var errorList = Copy(copyPath, paths);
+                // ログを出力する
+                LogOutput(errorList);
+            }
+            catch (Exception ex)
+            {
+                LogOutput(new List<string> { ex.ToString() });
+            }
         }
 
         /// <summary>
@@ -30,7 +51,7 @@ namespace FileCopy
             // CSVファイル読み込み
             string csvpath = Path.Combine(Environment.CurrentDirectory, CSV_FILE_NAME);
             
-            using (StreamReader reader = new StreamReader(csvpath, System.Text.Encoding.GetEncoding("UTF-8")))
+            using (StreamReader reader = new StreamReader(csvpath, Encoding.GetEncoding("UTF-8")))
             {
                 paths = reader.ReadToEnd().Split(',').ToList();               
             }
@@ -87,6 +108,22 @@ namespace FileCopy
                 }
             }
             return errorList;
+        }
+
+        /// <summary>
+        /// ログの出力
+        /// </summary>
+        /// <param name="strList"></param>
+        private static void LogOutput(List<string> strList)
+        {
+            string path = Path.Combine(Environment.CurrentDirectory, LOG);
+            using (StreamWriter writer = new StreamWriter(path, false, Encoding.GetEncoding("UTF-8")))
+            {
+                foreach (string item in strList)
+                {
+                    writer.WriteLine(item);
+                }
+            }
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\bin\Release\FileCopy.exe.config
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\bin\Release\FileCopy.exe
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\bin\Release\FileCopy.pdb
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\obj\Release\FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\obj\Release\FileCopy.exe
+C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\obj\Release\FileCopy.pdb
