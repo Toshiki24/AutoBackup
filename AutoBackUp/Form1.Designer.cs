@@ -29,7 +29,7 @@ namespace AutoBackUp
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnRun = new System.Windows.Forms.Button();
             this.lblMaximum = new System.Windows.Forms.Label();
             this.lblInterval = new System.Windows.Forms.Label();
             this.lblPath = new System.Windows.Forms.Label();
@@ -39,14 +39,15 @@ namespace AutoBackUp
             this.lblMinutes = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // btnRun
             // 
-            this.button1.Location = new System.Drawing.Point(81, 208);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(178, 41);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Start";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnRun.Location = new System.Drawing.Point(81, 208);
+            this.btnRun.Name = "btnRun";
+            this.btnRun.Size = new System.Drawing.Size(178, 41);
+            this.btnRun.TabIndex = 7;
+            this.btnRun.Text = "Start";
+            this.btnRun.UseVisualStyleBackColor = true;
+            this.btnRun.Click += new System.EventHandler(this.btnRun_Click);
             // 
             // lblMaximum
             // 
@@ -117,7 +118,7 @@ namespace AutoBackUp
             this.Controls.Add(this.lblMinutes);
             this.Controls.Add(this.lblInterval);
             this.Controls.Add(this.lblMaximum);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnRun);
             this.Name = "Form1";
             this.Text = "FileBackUP";
             this.ResumeLayout(false);
@@ -127,7 +128,7 @@ namespace AutoBackUp
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnRun;
         private System.Windows.Forms.Label lblMaximum;
         private System.Windows.Forms.Label lblInterval;
         private System.Windows.Forms.Label lblPath;
