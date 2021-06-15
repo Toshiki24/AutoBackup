@@ -18,7 +18,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\AutoBackUp\bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -46,11 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Monitoring.cs" />
+    <Compile Include="..\Common\Monitoring.cs">
+      <Link>Monitoring.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\Writer.cs">
+      <Link>Writer.cs</Link>
+    </Compile>
     <Compile Include="MonitoringManage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Writing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

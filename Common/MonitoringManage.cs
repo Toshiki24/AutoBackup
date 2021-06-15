@@ -1,22 +1,26 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
-namespace Monitoring
+namespace Common
 {
     public class MonitoringManage
     {
-        private Common.Monitoring monitoring;
+        private Monitoring monitoring;
         private bool stopflag = false;
 
         private const string FILECOPY_EXE = "FileCopy.exe";
         private const string FILECOPY_PROCESSNAME = "FileCopy";
-        private const string FILENAME = "paths.txt";
+        private const string FILENAME = "paths.csv";
 
         public MonitoringManage()
         {
-            this.monitoring = new Common.Monitoring(FILENAME);
+            this.monitoring = new Monitoring(FILENAME);
         }
 
         /// <summary>

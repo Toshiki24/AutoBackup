@@ -8,3 +8,4 @@ C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.exe
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.pdb
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.Form1.resources
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.csproj.AssemblyReference.cache
+C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Debug\AutoBackUp.SetupForm.resources

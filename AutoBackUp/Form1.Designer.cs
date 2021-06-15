@@ -37,11 +37,12 @@ namespace AutoBackUp
             this.txtInterval = new System.Windows.Forms.TextBox();
             this.txtCopyPath = new System.Windows.Forms.TextBox();
             this.lblMinutes = new System.Windows.Forms.Label();
+            this.btnSetup = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRun
             // 
-            this.btnRun.Location = new System.Drawing.Point(81, 208);
+            this.btnRun.Location = new System.Drawing.Point(151, 221);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(178, 41);
             this.btnRun.TabIndex = 7;
@@ -106,6 +107,16 @@ namespace AutoBackUp
             this.lblMinutes.TabIndex = 4;
             this.lblMinutes.Text = "Minutes";
             // 
+            // btnSetup
+            // 
+            this.btnSetup.Location = new System.Drawing.Point(12, 221);
+            this.btnSetup.Name = "btnSetup";
+            this.btnSetup.Size = new System.Drawing.Size(116, 41);
+            this.btnSetup.TabIndex = 7;
+            this.btnSetup.Text = "Setup";
+            this.btnSetup.UseVisualStyleBackColor = true;
+            this.btnSetup.Click += new System.EventHandler(this.btnSetup_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
@@ -118,6 +129,7 @@ namespace AutoBackUp
             this.Controls.Add(this.lblMinutes);
             this.Controls.Add(this.lblInterval);
             this.Controls.Add(this.lblMaximum);
+            this.Controls.Add(this.btnSetup);
             this.Controls.Add(this.btnRun);
             this.Name = "Form1";
             this.Text = "FileBackUP";
@@ -136,6 +148,7 @@ namespace AutoBackUp
         private System.Windows.Forms.TextBox txtInterval;
         private System.Windows.Forms.TextBox txtCopyPath;
         private System.Windows.Forms.Label lblMinutes;
+        private System.Windows.Forms.Button btnSetup;
     }
 }
 

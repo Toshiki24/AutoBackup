@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using System.IO;
 
-namespace Monitoring
+namespace Common
 {
     class Monitoring
     {
@@ -18,11 +11,11 @@ namespace Monitoring
         /// <summary>
         /// コンストラクタ
         /// </summary>
-        public Monitoring()
+        public Monitoring(string fileName)
         {
             //インスタンスを作成する
             Watcher = new FileSystemWatcher();
-            writer = new Writer();
+            writer = new Writer(fileName);
 
             //監視するディレクトリを指定
             Watcher.Path = monitoringPath;

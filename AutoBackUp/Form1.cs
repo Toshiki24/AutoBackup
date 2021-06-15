@@ -14,22 +14,22 @@ namespace AutoBackUp
 {
     public partial class Form1 : Form
     {
+        private const string MONITORING_EXE = "Monitoring.exe";
         private const string MONITORING = "Monitoring";
-        private const string MONITORING_PATH = "Monitoring.exe";
 
         private const string BUTTON_STOP = "stop";
 
-        private Process[] fileCopy;
+        private Process[] monitoring;
 
         public Form1()
         {
             InitializeComponent();
 
-            // サービスが起動しているか確認する
-            fileCopy = Process.GetProcessesByName(MONITORING);
+            // プロセスが起動しているか確認する
+            monitoring = Process.GetProcessesByName(MONITORING);
 
-            // サービスが起動している場合はボタンの文字を変更する
-            if (fileCopy.Length > 0)
+            // プロセスが起動している場合はボタンの文字を変更する
+            if (monitoring.Length > 0)
             {
                 btnRun.Text = BUTTON_STOP;                
             }
@@ -42,12 +42,12 @@ namespace AutoBackUp
         /// <param name="e"></param>
         private void btnRun_Click(object sender, EventArgs e)
         {
-            if(fileCopy.Length > 0)
+            if(monitoring.Length > 0)
             {
                 // -------------
                 // stopボタン押下
                 // -------------
-                fileCopy.First().Kill();
+                monitoring.First().Kill();
             }
             else
             {
@@ -55,15 +55,25 @@ namespace AutoBackUp
                 // startボタン押下
                 // -------------
                 // 別アプリの起動準備
-                string backUpPath = Path.Combine(Environment.CurrentDirectory, MONITORING_PATH);
-                ProcessStartInfo startInfo = new ProcessStartInfo(backUpPath);
-
-                // コマンドライン引数の設定
-                startInfo.Arguments = txtMaximum + "," + txtInterval + "," + txtCopyPath;
-                startInfo.UseShellExecute = false;
-                Process.Start(startInfo);
+                string backUpPath = Path.Combine(Environment.CurrentDirectory, MONITORING_EXE);
+                string args = txtMaximum.Text + "," + txtInterval.Text + "," + txtCopyPath.Text;
+                Process.Start(backUpPath, args);
             }
+
+            this.Close();
         }
 
+        /// <summary>
+        /// Setupボタン押下
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnSetup_Click(object sender, EventArgs e)
+        {
+            SetupForm setupForm = new SetupForm();
+            this.Visible = false;
+            setupForm.ShowDialog();
+            this.Visible = true;
+        }
     }
 }

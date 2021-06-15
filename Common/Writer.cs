@@ -5,18 +5,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Monitoring
+namespace Common
 {
     class Writer
     {
         private object obj = new object();
 
-        private const string CSV_FILE_NAME = "paths.csv";
-        public string CSVPath { get; set; }
+        public string FilePath { get; set; }
 
-        public Writer()
+        public Writer(string fileName)
         {
-            this.CSVPath = Path.Combine(Environment.CurrentDirectory, CSV_FILE_NAME);
+            this.FilePath = Path.Combine(Environment.CurrentDirectory, fileName);
+            if(!File.Exists(FilePath))
+            {
+                File.Create(FilePath);
+            }
         }
 
         /// <summary>
@@ -25,19 +28,20 @@ namespace Monitoring
         /// <param name="str"></param>
         public void LineWrite(string str)
         {
-            // CSVファイルに書き込みたい文字列があった場合は処理終了
-            List<string> lines = File.ReadAllLines(CSVPath).ToList();
-            if (lines.Contains(str))
-            {
+            // 自身が対象の場合は処理終了
+            if (str == FilePath)
                 return;
-            }
 
             lock (obj)
             {
-                using (StreamWriter writer = new StreamWriter(CSVPath, false, Encoding.GetEncoding("UTF-8")))
+                // ファイルに書き込みたい文字列があった場合は処理終了
+                List<string> lines = File.ReadAllLines(FilePath).ToList();
+                if (lines.Contains(str))
                 {
-                    writer.WriteLine(str);
+                    return;
                 }
+
+                File.AppendAllText(FilePath,str + Environment.NewLine);
             }
         }
 
@@ -49,9 +53,9 @@ namespace Monitoring
         {
             lock (obj)
             {
-                List<string> lines = File.ReadAllLines(CSVPath).ToList();
+                List<string> lines = File.ReadAllLines(FilePath).ToList();
                 lines = lines.FindAll(x => x != str);
-                System.IO.File.WriteAllLines(CSVPath, lines);
+                File.WriteAllLines(FilePath, lines);
             }
         }
 
@@ -59,7 +63,7 @@ namespace Monitoring
         {
             lock (this)
             {
-                List<string> lines = File.ReadAllLines(CSVPath).ToList();
+                List<string> lines = File.ReadAllLines(FilePath).ToList();
                 if(lines.Contains(before))
                 {
                     LineDelete(before);
@@ -69,3 +73,4 @@ namespace Monitoring
         }
     }
 }
+

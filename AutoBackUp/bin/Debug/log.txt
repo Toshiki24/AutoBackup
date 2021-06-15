@@ -1,0 +1,415 @@
+﻿C:\Users\toshiki\AppData\Local\Docker\log.txt
+C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\paths.txt
+C:\ProgramData\Acronis\Agent\var\monitoring\monitoring-av-counters.db
+C:\Windows\Prefetch\MONITORING.EXE-573211BB.pf
+C:\Users\toshiki\Desktop\新しいテキスト ドキュメント - コピー (2).txt
+C:\Users\toshiki\Desktop
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Cookies
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL
+C:\ProgramData\McAfee\MfeAV
+C:\ProgramData\McAfee\WebAdvisor\UIManager.dll\log_0015005C0021001C0001003C0051.txt
+C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-69C456C3.pf
+C:\ProgramData\Acronis\TrueImageHome\Database
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\INetCache\IE\WJIIWCAR
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\INetCache\IE\PERJW4YV
+C:\Users\toshiki\AppData\Local\Xamarin
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights
+C:\Windows\Prefetch\AUDIODG.EXE-AB22E9A6.pf
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70
+C:\Users\toshiki\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20210607_121618_VS.log
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libiconv-2.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libintl-8.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\zlib1.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libpcre2-8-0.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libssp-0.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libgcc_s_dw2-1.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\libwinpthread-1.dll
+C:\Program Files\Git\etc\gitconfig
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\etc\gitconfig
+C:\Users\toshiki\.gitconfig
+C:\Users\toshiki\source\repos\AutoBackUp\.git
+C:\Users\toshiki\source\repos\AutoBackUp\.git\HEAD
+C:\Users\toshiki\source\repos\AutoBackUp\.git\config
+C:\Users\toshiki\source\repos\AutoBackUp\.git\refs\heads
+C:\Users\toshiki\source\repos\AutoBackUp\.git\refs\heads\master
+C:\Users\toshiki\source\repos\AutoBackUp\.git\packed-refs
+C:\Windows\Prefetch\GIT.EXE-039A53BC.pf
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default
+C:\Users\toshiki\source\repos
+C:\Users\toshiki\source
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.844_none_89e26e970b35ab92
+C:\Windows\Prefetch\FILECOPY.EXE-8FAD8714.pf
+C:\Users\toshiki\AppData\Local\Temp
+C:\Users\toshiki\Desktop\test2
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\AutoBackUp
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug
+C:\Users\toshiki\Desktop\test2\ProgramData\Acronis
+C:\Users\toshiki\Desktop\test2\ProgramData\Acronis\Agent
+C:\Users\toshiki\Desktop\test2\ProgramData\Acronis\Agent\var
+C:\Users\toshiki\Desktop\test2\Windows
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\Windows
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default
+C:\Users\toshiki\Desktop\test2\ProgramData\McAfee
+C:\Users\toshiki\Desktop\test2\ProgramData\McAfee\MfeAV
+C:\Users\toshiki\Desktop\test2\ProgramData\McAfee\WebAdvisor
+C:\Users\toshiki\Desktop\test2\ProgramData\McAfee\WebAdvisor\UIManager.dll
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Microsoft
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Temp
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Temp\VSFeedbackIntelliCodeLogs
+C:\Users\toshiki\Desktop\test2\Program Files\Git
+C:\Users\toshiki\Desktop\test2\Program Files\Git\etc
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\etc
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.git
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.git\refs
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.git\refs\heads
+C:\ProgramData\McAfee\MPF
+C:\Windows\Temp
+C:\Windows\System32\wbem\Repository\OBJECTS.DATA
+C:\Windows\System32\wbem\Repository\INDEX.BTR
+C:\Windows\System32\wbem\Repository\MAPPING1.MAP
+C:\Users\toshiki\source\repos\AutoBackUp\.vs\AutoBackUp\v16\.suo
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\CloudStore
+C:\Windows\SystemResources\LaunchTM.exe.mun
+C:\Windows\Prefetch\CONSENT.EXE-40419367.pf
+C:\Windows\System32\duser.dll
+C:\Windows\Prefetch\LAUNCHTM.EXE-8587CF19.pf
+C:\Program Files\Git
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\DiagnosticsHub.Collection.Service\KernelTraceControl.dll
+C:\Windows\System32\WinSATAPI.dll
+C:\Windows\Performance
+C:\Windows\Performance\WinSAT
+C:\Windows\Performance\WinSAT\DataStore
+C:\Windows\Performance\WinSAT\DataStore\2021-05-22 11.20.51.769 Formal.Assessment (Initial).WinSAT.xml
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\WinSATAPI.dll.mui
+C:\Users\toshiki\AppData\Local\Temp\Report.D10D0B24-F8FF-4F0B-B09B-7BFA5A459E5A\49032AB5-94F6-4CDB-A844-361602398F6E
+C:\Windows\Prefetch\DLLHOST.EXE-4B6CB38A.pf
+C:\ProgramData\Microsoft\Diagnosis\EventStore.db-wal
+C:\Windows\System32\sru\SRUDB.dat
+C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftOfficeHub_18.2104.12721.0_x64__8wekyb3d8bbwe\ActivationStore.dat
+C:\ProgramData\McAfee\MPF\mpfaddr.dat
+C:\Users\toshiki\AppData\LocalLow\Temp\Microsoft\OPC
+C:\Users\toshiki\AppData\Local\Temp\レポート20210607-2223.diagsession
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0.scratch
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0\lock
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0\sc.user_paged.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.385714FA-603A-4719-800D-6AAA6FEA9CC0.1.user_paged.etl
+C:\Program Files\Common Files\McAfee\RPTScanner\rules.db
+C:\Program Files\Common Files\McAfee\RPTScanner
+C:\Program Files\Common Files\McAfee\RPTScanner\dscache.db
+C:\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e\WindowLayouts\Design_35rtrj5n.mik.winprf
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1.scratch
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1\lock
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.DBF67893-D27B-474E-973C-D82021939FA1.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1\sc.user_paged.1.etl
+C:\Users\toshiki\AppData\Local\Temp\DBF67893-D27B-474E-973C-D82021939FA1\sc.kernel.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.DBF67893-D27B-474E-973C-D82021939FA1.1.user_paged.etl
+C:\Users\toshiki\AppData\Local\Temp\385714FA-603A-4719-800D-6AAA6FEA9CC0\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.DBF67893-D27B-474E-973C-D82021939FA1.1.kernel.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.385714FA-603A-4719-800D-6AAA6FEA9CC0.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4.scratch
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4\lock
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.057CBEA4-2DF1-4656-BEE5-43496957C0A4.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\057CBEA4-2DF1-4656-BEE5-43496957C0A4\sc.user_paged.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.057CBEA4-2DF1-4656-BEE5-43496957C0A4.1.user_paged.etl
+C:\Program Files\Common Files\McAfee\RPTScanner\dscache.db-journal
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\mlang.dll.mui
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\Prefetch\CMD.EXE-6D6290C5.pf
+C:\Windows\SysWOW64\ja-JP
+C:\Windows\SysWOW64\ja
+C:\Windows\SysWOW64\en-US
+C:\Windows\SysWOW64\en
+C:\Users\toshiki\Documents\Visual Studio 2019\Visualizers
+C:\Users\toshiki\Documents\Visual Studio 2019\Visualizers\attribcache140.bin
+C:\Users\toshiki\Documents\Visual Studio 2019
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\25
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\25\95
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\25\95\74F8C3BE4FE365819848F4FD33B7
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\25\95\74F8C3BE4FE365819848F4FD33B7\ContentFile.BLOB
+C:\System Volume Information\FileProtector\FileStorage
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp
+C:\ProgramData\McAfee\MCLOGS\VirusScan
+C:\ProgramData\McAfee\MCLOGS\VirusScan\rc.log2
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\AutoBackUp
+C:\Windows\System32\authz.dll
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\ProgramData\Acronis
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\ProgramData\McAfee
+C:\Users\toshiki\Desktop\test2\ProgramData\Microsoft
+C:\Users\toshiki\Desktop\test2\ProgramData\Microsoft\Windows
+C:\Users\toshiki\Desktop\test2\ProgramData\Microsoft\Windows\AppRepository
+C:\Users\toshiki\Desktop\test2\ProgramData\Microsoft\Windows\AppRepository\Packages
+C:\ProgramData\McAfee\MCLOGS\VirusScan\rc.log
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Program Files
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.git
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.vs
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.vs\AutoBackUp
+C:\Users\toshiki\Desktop\test2\Users\toshiki\source\repos\AutoBackUp\.vs\AutoBackUp\v16
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\Shared
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\Shared\Common
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\Shared\Common\DiagnosticsHub.Collection.Service
+C:\Users\toshiki\Desktop\test2\Windows\Performance\WinSAT
+C:\Users\toshiki\Desktop\test2\Windows\Performance\WinSAT\DataStore
+C:\Users\toshiki\Desktop\test2\ProgramData\McAfee\MPF
+C:\Users\toshiki\Desktop\test2\Program Files\Common Files\McAfee\RPTScanner
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Documents\Visual Studio 2019\Visualizers
+C:\Users\toshiki\Desktop\test2\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\Runtime
+C:\Users\Public\desktop.ini
+C:\Users\Public\Desktop\desktop.ini
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\Windows
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Google
+C:\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Google\Chrome
+C:\Windows\SysWOW64\dllhost.exe
+C:\Users\toshiki\AppData\Local\VirtualStore
+C:\Program Files\McAfee\MAT\McPvNs.dll
+C:\Windows\System32\winspool.drv
+C:\Users\toshiki\AppData\Local\McAfee File Lock
+C:\Users\toshiki\AppData\Local\McAfee File Lock\VaultInfo.xml
+C:\Program Files\McAfee\MAT\McPvKbePwd.dll
+C:\Program Files\McAfee\MAT\McPvKbeQa.dll
+C:\Users\toshiki\Documents\マカフィー金庫
+C:\Users\toshiki\Documents\マカフィー金庫\desktop.ini
+C:\Program Files (x86)\Acronis\TrueImageHome\ti_managers_proxy.dll
+C:\Windows\SysWOW64\mpr.dll
+C:\Windows\SysWOW64\msvcr120.dll
+C:\Windows\SysWOW64\dbghelp.dll
+C:\Windows\SysWOW64\msvcp120.dll
+C:\Windows\SysWOW64\dbgcore.dll
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer
+C:\Windows\SysWOW64\sxs.dll
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+C:\Windows\System32\PlayToDevice.dll
+C:\Windows\SysWOW64\stdole2.tlb
+C:\Windows\System32\dllhost.exe
+C:\Windows\System32\thumbcache.dll
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+C:\Program Files\desktop.ini
+C:\Windows\System32\wpdshext.dll
+C:\Windows\System32\EhStorShell.dll
+C:\Windows\System32\EhStorAPI.dll
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\msoshext.dll
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\vcruntime140_1.dll
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\vcruntime140.dll
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\msvcp140.dll
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\LocalLow
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\LocalLow\Temp
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e
+C:\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e\WindowLayouts
+C:\Windows\System32\rundll32.exe
+C:\Windows\explorer.exe
+C:\Windows\System32\wbem\Repository\MAPPING2.MAP
+C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.928_none_faefac437613c6cc
+C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.928_none_faefac437613c6cc\GdiPlus.dll
+C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLMF.DLL
+C:\Users\toshiki\AppData\Local\Temp\Report.5AF53A66-B027-46A7-A4DD-1777FAAAC730
+C:\Users\toshiki\AppData\Local\Temp\Report.5AF53A66-B027-46A7-A4DD-1777FAAAC730\B7B427AA-7AFC-412C-B78D-07A29D152895
+C:\Users\toshiki\AppData\Local\Temp\Report.5AF53A66-B027-46A7-A4DD-1777FAAAC730\B7B427AA-7AFC-412C-B78D-07A29D152895\sc.user_aux.etl
+C:\Users\toshiki\AppData\Local\Temp\Report.5AF53A66-B027-46A7-A4DD-1777FAAAC730\metadata.xml
+C:\Users\toshiki\AppData\Local\Temp\5af53a66-b027-46a7-a4dd-1777faaac730.PackageExtraction
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Sessions\Session_13267542780282994
+C:\Windows\System32\IME\IMEJP
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\desktop.ini
+C:\Windows\System32\IME\IMEJP\IMJPLMP.DLL
+C:\Program Files\Microsoft SDKs
+C:\Program Files\Microsoft SDKs\Azure
+C:\Program Files\Microsoft SDKs\Azure\Emulator
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK
+C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9
+C:\Program Files (x86)\Microsoft SDKs
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\ja-JP
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\ja-JP\explorer.exe.mui
+C:\$Recycle.Bin
+C:\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\29\37\8643356DA2FA2C02749C62048962
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$ITHKV6N
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\Common Files\McAfee\RPTScanner
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\Common Files\McAfee
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\Common Files
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\Git\etc
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\Git
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RTHKV6N\WindowsApps
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\McAfee\MfeAV
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\McAfee\MPF
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\McAfee\WebAdvisor\UIManager.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\McAfee\WebAdvisor
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\McAfee
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft\Diagnosis
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ja_b77a5c561934e089
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftOfficeHub_18.2104.12721.0_x64__8wekyb3d8bbwe
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft\Windows\AppRepository\Packages
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft\Windows\AppRepository
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft\Windows
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G\Microsoft
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$RVM674G
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$I4EOUYE
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Docker
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Google\Chrome\User Data\Default
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Google\Chrome\User Data
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Google\Chrome
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Google
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local\Microsoft\VSApplicationInsights
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32
+C:\ProgramData\Microsoft\Windows\AppRepository
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$I0YL0SB
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$I1NFLIQ.txt
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$I3KUKTV.db
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$I4ZEP2F
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$ICP7VUL
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IDJFNP7
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IHI66DA
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IJFKKT2
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$ILFHZ8T
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IN59619
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IP7MW0H
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IPHZFQX
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IVMAW0L
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IWF2AT2
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IX4MGY7
+C:\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$IYY76P0
+C:\ProgramData\Microsoft\Search\Data\Applications
+C:\Windows\Microsoft.NET\assembly
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Themes
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Preferences
+C:\Windows\Prefetch\DLLHOST.EXE-9D3721CA.pf
+C:\Windows\System32\drivers\tdi.sys
+C:\Windows\System32\drivers\null.sys
+C:\Users\toshiki\Desktop\新しいテキスト ドキュメント - コピー (2) - コピー.txt
+C:\Windows\System32\mssitlb.dll
+C:\Windows\System32\Query.dll
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Network Persistent State
+C:\ProgramData\Microsoft\Search\Data\Applications\Windows
+C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb00113.jtx
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32
+C:\Windows\System32\LaunchTM.exe
+C:\Windows\System32\Taskmgr.exe
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\Taskmgr.exe.mui
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\pris\resources.ja-JP.pri
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris\resources.ja-JP.pri
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\pris\resources.ja-JP.pri
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\ImmersiveControlPanel\pris\resources.ja-JP.pri
+C:\Windows\System32\wmsgapi.dll
+C:\Windows\System32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}
+C:\Windows\System32\ja-jp\Taskmgr.exe.mui
+C:\Windows\SystemResources\Taskmgr.exe.mun
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\consent.exe.mui
+C:\Windows\WinSxS\FileMaps\$$_system32_21f9a9c4a2f8b514.cdf-ms
+C:\Windows\System32\dui70.dll
+C:\Windows\Prefetch\TASKMGR.EXE-4C8500BA.pf
+C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-44162447.pf
+C:\Windows\WinSxS\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.19041.1_ja-jp_fa31753930710f39
+C:\Users\toshiki\Desktop\test2\2305\Windows\System32\IME
+C:\Users\toshiki\Desktop\test2\2305\Program Files\Microsoft SDKs\Azure
+C:\Users\toshiki\Desktop\test2\2305\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1\29
+C:\Users\toshiki\Desktop\test2\2305\Windows\Microsoft.NET\assembly\GAC_MSIL
+C:\Users\toshiki\Desktop\test2\2305\$Recycle.Bin\S-1-5-21-3885014673-3647187677-3810274642-1001\$R4EOUYE\toshiki\AppData\Local
+C:\Users\toshiki\Desktop\test2\2305\ProgramData\McAfee\MfeAV
+C:\Users\toshiki\Desktop\test2\2305\ProgramData\Microsoft\Search\Data\Applications
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy
+C:\Users\toshiki\Desktop\test2\2305\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\ImmersiveControlPanel
+C:\Users\toshiki\Desktop\test2\2305\ProgramData\McAfee
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\Windows
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Google
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Local\Google\Chrome
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\LocalLow
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\LocalLow\Temp
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e\WindowLayouts
+C:\Users\toshiki\Desktop\test2\2305\System Volume Information\FileProtector\FileStorage\65381F8F-5A4D-4B91-B45C-353F20033BB1
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\Desktop\test2\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Local\McAfee File Lock
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer
+C:\Users\toshiki\Desktop\test2\2305\Users\toshiki\Desktop\test2\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio
+C:\Windows\Prefetch\STANDARDCOLLECTOR.SERVICE.EXE-CB669007.pf
+C:\Users\toshiki\AppData\Local\Temp\Report.B852A036-2E2A-4E36-BC55-1DC8692C19AE\000A1774-3208-4358-B2DB-2971958F4A40
+C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jcp
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.19.60.0_neutral__8wekyb3d8bbwe\Windows\ImmersiveControlPanel
+C:\Program Files (x86)\Microsoft Visual Studio\Shared
+C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb00114.jtx
+C:\Windows\System32\xmlfilter.dll
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.20.65.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\msxml3r.dll.mui
+C:\ProgramData\McAfee\MfeAV\cache
+C:\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e\AutoRecoverDat
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\WebCache
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\WebCache\V0100068.log
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\WebCache\V01.chk
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\TransportSecurity
+C:\Windows\System32\sru
+C:\Windows\System32\sru\SRU.log
+C:\Windows\System32\sru\SRUtmp.log
+C:\Users\toshiki\AppData\Local\Temp\レポート20210607-2307.diagsession
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F.scratch
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F\lock
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F\sc.user_paged.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.055D243C-6CCE-47C6-A2AE-36B1829E7F5F.1.user_paged.etl
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69.scratch
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69\lock
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.6C9F88CA-797F-48AA-9F68-EF96D401CF69.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69\sc.user_paged.1.etl
+C:\Users\toshiki\AppData\Local\Temp\6C9F88CA-797F-48AA-9F68-EF96D401CF69\sc.kernel.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.6C9F88CA-797F-48AA-9F68-EF96D401CF69.1.user_paged.etl
+C:\Users\toshiki\AppData\Local\Temp\055D243C-6CCE-47C6-A2AE-36B1829E7F5F\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.6C9F88CA-797F-48AA-9F68-EF96D401CF69.1.kernel.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.055D243C-6CCE-47C6-A2AE-36B1829E7F5F.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B.scratch
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B.scratch\lock
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B\lock
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B\sc.user_injected.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.1483DCB1-649A-4E6F-9121-D13E589A366B.1.user_injected.etl
+C:\Users\toshiki\AppData\Local\Temp\1483DCB1-649A-4E6F-9121-D13E589A366B\sc.user_paged.1.etl
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagHubEtwSession.16.1483DCB1-649A-4E6F-9121-D13E589A366B.1.user_paged.etl
+C:\Program Files\Common Files\microsoft shared\VS7Debug
+C:\Program Files\Common Files\microsoft shared\VS7Debug\pdm.dll

@@ -9,7 +9,7 @@ namespace FileCopy
 {
     class Program
     {
-        private const string CSV_FILE_NAME = "paths.csv";
+        private const string FILE_NAME = "paths.txt";
         private const string LOG = "log.txt";
 
         static void Main(string[] args)
@@ -41,19 +41,22 @@ namespace FileCopy
         }
 
         /// <summary>
-        /// CSVファイルの読み込み
+        /// ファイルの読み込み
         /// </summary>
         /// <param name="dirName">作業フォルダ名</param>
         private static List<string> ReadFile()
         {
             List<string> paths = new List<string>();
 
-            // CSVファイル読み込み
-            string csvpath = Path.Combine(Environment.CurrentDirectory, CSV_FILE_NAME);
+            // ファイル読み込み
+            string csvpath = Path.Combine(Environment.CurrentDirectory, FILE_NAME);
             
             using (StreamReader reader = new StreamReader(csvpath, Encoding.GetEncoding("UTF-8")))
             {
-                paths = reader.ReadToEnd().Split(',').ToList();               
+                while(reader.Peek() != -1)
+                {
+                    paths.Add(reader.ReadLine());               
+                }
             }
             return paths;
         }
