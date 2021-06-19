@@ -5,7 +5,10 @@ namespace Common
     class Monitoring
     {
         public FileSystemWatcher Watcher { get; set; }
-        private static Writer writer;
+        public Writer WriterObj { get; set; }
+
+        private static object obj = new object();
+
         private const string monitoringPath = @"C:\";
 
         /// <summary>
@@ -15,7 +18,7 @@ namespace Common
         {
             //インスタンスを作成する
             Watcher = new FileSystemWatcher();
-            writer = new Writer(fileName);
+            WriterObj = new Writer(fileName);
 
             //監視するディレクトリを指定
             Watcher.Path = monitoringPath;
@@ -45,18 +48,24 @@ namespace Common
         /// </summary>
         /// <param name="source"></param>
         /// <param name="e"></param>
-        private static void watcher_Changed(System.Object source, System.IO.FileSystemEventArgs e)
+        private void watcher_Changed(System.Object source, System.IO.FileSystemEventArgs e)
         {
             switch (e.ChangeType)
             {
                 // 更新、または新規作成された場合
                 case System.IO.WatcherChangeTypes.Changed:
                 case System.IO.WatcherChangeTypes.Created:
-                    writer.LineWrite(e.FullPath);
+                    lock (obj)
+                    {
+                        WriterObj.LineWrite(e.FullPath);
+                    }
                     break;
                 // 削除された場合
                 case System.IO.WatcherChangeTypes.Deleted:
-                    writer.LineDelete( e.FullPath);
+                    lock (obj)
+                    {
+                        WriterObj.LineDelete(e.FullPath);
+                    }
                     break;
             }
         }
@@ -65,9 +74,12 @@ namespace Common
         /// </summary>
         /// <param name="source"></param>
         /// <param name="e"></param>
-        private static void watcher_Renamed(System.Object source, System.IO.RenamedEventArgs e)
+        private void watcher_Renamed(System.Object source, System.IO.RenamedEventArgs e)
         {
-            writer.LineChange(e.OldFullPath, e.FullPath);
+            lock (obj)
+            {
+                WriterObj.LineChange(e.OldFullPath, e.FullPath);
+            }
         }
     }    
 }

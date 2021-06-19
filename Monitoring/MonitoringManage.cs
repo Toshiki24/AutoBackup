@@ -32,7 +32,7 @@ namespace Monitoring
                 if (stopflag)
                 {
                     Stop();
-
+                    monitoring.WriterObj.Write();
                     // ----------------------
                     // コピーアプリを起動する
                     // ----------------------

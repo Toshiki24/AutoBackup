@@ -1,0 +1,65 @@
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20210615142444_22e6d5df56954e36906f54dc8457c89d.tmp
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70
+C:\ProgramData\McAfee\MPF
+C:\Windows\Temp
+C:\ProgramData\McAfee\MPF\mpfaddr.dat
+C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.2.19041_neutral_neutral_cw5n1h2txyewy
+C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.2.19041_neutral_neutral_cw5n1h2txyewy\S-1-5-21-3885014673-3647187677-3810274642-1001.pckgdep
+C:\ProgramData\Microsoft\EdgeUpdate\Log\MicrosoftEdgeUpdate.log
+C:\Windows\System32\AppXDeploymentServer.dll
+C:\Windows\System32\StateRepository.Core.dll
+C:\Windows\System32\wevtapi.dll
+C:\Users\toshiki\AppData\Local\Temp
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\resources.pri
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris
+C:\Windows\System32\LanguageOverlayUtil.dll
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris
+C:\Windows\rescache\_merged\2982665548
+C:\Windows\rescache\_merged\2982665548\4147933056.pri
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris\resources.ja-JP.pri
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApi.dll
+C:\Windows\System32\wincorlib.dll
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Search.Core.dll
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\BingConfigurationClient.dll
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings
+C:\Windows\System32\windowsudk.shellcommon.dll
+C:\Windows\System32\DictationManager.dll
+C:\Windows\System32\Windows.UI.Immersive.dll
+C:\Windows\System32\FlightSettings.dll
+C:\Windows\System32\vaultcli.dll
+C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll
+C:\Windows\System32\profext.dll
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\TokenBroker\Cache
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\TokenBroker\Cache\714ea40bdc38ea53349f1f7fed402fc4b5713562.tbres
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\Content
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\Content\6BADA8974A10C4BD62CC921D13E43B18_1DC6D7385EA816C957BA2B715AC5C442
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData\6BADA8974A10C4BD62CC921D13E43B18_1DC6D7385EA816C957BA2B715AC5C442
+C:\Windows\System32\ci.dll
+C:\Windows\System32\en-US\ci.dll.mui
+C:\Windows\System32\fveui.dll
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\fveui.dll.mui
+C:\Windows\System32\wuaueng.dll
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\wuaueng.dll.mui
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\System32\WindowsPowerShell\v1.0\ja-JP
+C:\Windows\System32\ngcrecovery.dll
+C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_19041.25.70.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\NgcRecovery.dll.mui
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData\57C8EDB95DF3F0AD4EE2DC2B8CFD4157
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData\FB0D848F74F70BB2EAA93746D24D9749
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\IDX_CONTENT_TASKBARHEADLINES.json
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\IDX_CONTENT_TASKBARHEADLINES.json.~tmp
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds
+C:\Windows\System32\Microsoft-Windows-AppModelExecEvents.dll
+C:\ProgramData\Acronis\Agent\var\monitoring\monitoring-av-counters.db
+C:\ProgramData\McAfee\MfeAV\cache.tmp
+C:\ProgramData\McAfee\MfeAV
+C:\Windows\Prefetch\SVCHOST.EXE-DB425447.pf
+C:\ProgramData\McAfee\MPF\mpf.dat.TMP
+C:\Windows\Prefetch\ADP-REST-UTIL.EXE-DA5E9348.pf
+C:\ProgramData\McAfee\MPF\mpf.dat

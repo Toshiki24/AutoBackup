@@ -80,6 +80,9 @@ namespace AutoBackUp
             // 監視終了
             monitoring.Watcher.EnableRaisingEvents = false;
 
+            // テキストファイルへの書き込み
+            monitoring.WriterObj.Write();
+
             // コントロールを元に戻す
             btnClose.Enabled = true;
             btnStart.Enabled = true;

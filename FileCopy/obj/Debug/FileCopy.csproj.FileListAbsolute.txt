@@ -7,4 +7,3 @@ C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\obj\Debug\FileCopy.pdb
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\FileCopy.exe.config
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\FileCopy.exe
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\bin\Debug\FileCopy.pdb
-C:\Users\toshiki\source\repos\AutoBackUp\FileCopy\obj\Debug\FileCopy.csproj.AssemblyReference.cache

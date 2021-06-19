@@ -1,0 +1,165 @@
+C:\ProgramData\Acronis\Agent\var\monitoring\monitoring-av-counters.db
+C:\Windows\Prefetch\AUTOBACKUP.EXE-83C90502.pf
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20210615143844_8fb6d1ea6a7e44debe454a43f6cdd264.tmp
+C:\Users\toshiki\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70
+C:\ProgramData\McAfee\MfeAV\cache.tmp
+C:\ProgramData\McAfee\MfeAV
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\94522472-0d47-4262-b8fe-eaa6af560388.tmp
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Cookies
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL-journal
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\Reporting and NEL
+C:\ProgramData\Acronis\TrueImageHome\Database
+C:\Windows\Temp
+C:\ProgramData\McAfee\MPF\mpf.dat.TMP
+C:\Windows\Prefetch\ADP-REST-UTIL.EXE-DA5E9348.pf
+C:\ProgramData\McAfee\MPF
+C:\ProgramData\McAfee\MPF\mpf.dat
+C:\Windows\Prefetch\SVCHOST.EXE-4AFEF8D1.pf
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\art\1002.0
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\art
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\4633.0\mferuntime.dat
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\4633.0\medscan.dat
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\4633.0\mednames.dat
+C:\Program Files\Common Files\McAfee\AMContent\content\avengine\med\4633.0\medclean.dat
+C:\Program Files\Common Files\McAfee\AMContent\content\amcore\contain\2068.0\amcontain.dat
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\3be6f4e9-7d35-4183-a723-1d6520ecdbee.tmp
+C:\Users\toshiki\Desktop\test - コピー
+C:\Users\toshiki\Desktop\test - コピー\2345
+C:\Users\toshiki\Desktop\test - コピー\2348
+C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-44162447.pf
+C:\Users\toshiki\Desktop\test - コピー - コピー
+C:\Users\toshiki\Desktop
+C:\Users\toshiki\Desktop\test - コピー - コピー\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー\2348
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms
+C:\Users\toshiki\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+C:\Windows\System32\imageres.dll
+C:\Windows\SystemResources\imageres.dll.mun
+C:\Windows\System32\en-US\imageres.dll.mui
+C:\Windows\System32\authz.dll
+C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches
+C:\Windows\System32\ntshrui.dll
+C:\Windows\Prefetch\DLLHOST.EXE-4B6CB38A.pf
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー\2348
+C:\Users\toshiki\Desktop\test - コピー - コピー (2)
+C:\Users\toshiki\Desktop\test - コピー - コピー (2)\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー (2)\2348
+C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-69C456C3.pf
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー - コピー
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー - コピー\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー - コピー\2348
+C:\Users\toshiki\Desktop\test - コピー - コピー (2) - コピー
+C:\Users\toshiki\Desktop\test - コピー - コピー (2) - コピー\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー (2) - コピー\2348
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー (2)
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー (2)\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー - コピー (2)\2348
+C:\Users\toshiki\Desktop\test - コピー - コピー (3)
+C:\Users\toshiki\Desktop\test - コピー - コピー (3)\2345
+C:\Users\toshiki\Desktop\test - コピー - コピー (3)\2348
+C:\Users\toshiki\AppData\Local\Microsoft\OneDrive\logs\Common\FileCoAuth-2021-06-15.1441.11732.1.aodl
+C:\Users\toshiki\AppData\Local\Microsoft\OneDrive\logs\Common
+C:\Users\toshiki\AppData\Local\Microsoft\OneDrive\logs\Common\DeviceHealthSummaryConfiguration.ini
+C:\Windows\Prefetch\FILECOAUTH.EXE-F6F5DD23.pf
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\fc330260-a67d-48c3-8c72-73c987fe76cb.tmp
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data
+C:\Users\toshiki\AppData\Local\Google\Chrome\User Data\Default\96edd19e-fa46-4ceb-a43c-2e8dc7e286a3.tmp
+C:\ProgramData\Microsoft\Windows\AppRepository
+C:\ProgramData\McAfee\MHN
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache
+C:\Windows\System32\Windows.Cortana.ProxyStub.dll
+C:\ProgramData\McAfee\MHN\MHNDB.db
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData\77EC63BDA74BD0D0E0426DC8F8008506
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5d696d521de238c3.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5d696d521de238c3.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\bbab4f0ce657b5d0.automaticDestinations-ms
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\b8ab77100df80ab2.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\b8ab77100df80ab2.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9cfafb05ce914942.automaticDestinations-ms
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office ツール
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office ツール\Office 言語設定.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\fb3b0dbfee58fac8.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\fb3b0dbfee58fac8.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\1ced32d74a95c7bc.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code\Visual Studio Code.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\7e4dca80246863e3.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\7e4dca80246863e3.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\f01b4d95cf55d32a.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\File Explorer.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\a52b0784bd667468.automaticDestinations-ms
+C:\Windows\System32\TileDataRepository.dll
+C:\Windows\System32\Windows.StateRepository.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20120.4004.0_x64__8wekyb3d8bbwe\microsoft.system.package.metadata
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20120.4004.0_x64__8wekyb3d8bbwe\microsoft.system.package.metadata\S-1-5-21-3885014673-3647187677-3810274642-1001-MergedResources-1.pri
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20120.4004.0_neutral_split.language-ja_8wekyb3d8bbwe
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20120.4004.0_neutral_split.language-ja_8wekyb3d8bbwe\resources.pri
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\ff99ba2fb2e34b73.customDestinations-ms
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\microsoft.system.package.metadata
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\microsoft.system.package.metadata\S-1-5-21-3885014673-3647187677-3810274642-1001-MergedResources-1.pri
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_neutral_split.language-ja_8wekyb3d8bbwe
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_neutral_split.language-ja_8wekyb3d8bbwe\resources.pri
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\dd7c3b1adb1c168b.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\ccba5a5986c77e43.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\ccba5a5986c77e43.automaticDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\2ac92a1015f59f1f.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\f18460fded109990.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f18460fded109990.automaticDestinations-ms
+C:\Windows\Prefetch\TASKHOSTW.EXE-2E5D4B75.pf
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\12dc1ea8e34b5a6.automaticDestinations-ms
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations-ms
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell
+C:\Users\toshiki\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\サクラエディタ
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\サクラエディタ\サクラエディタ.lnk
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\IDX_CONTENT_TASKBARHEADLINES.json
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\IDX_CONTENT_TASKBARHEADLINES.json.~tmp
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds
+C:\Users\toshiki\AppData\Local\Temp\mat-debug-12416.log
+C:\Users\toshiki\AppData\Local\Temp
+C:\Users\toshiki\AppData\Local\Temp\18e190413af045db88dfbd29609eb877.db.ses
+C:\ProgramData\regid.1991-06.com.microsoft
+C:\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft_Windows-10-Pro.swidtag
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132682417382250535.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132682417382250535.txt.~tmp
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}\appsglobals.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}\appssynonyms.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}\apps.schema
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}\appsconversions.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}\Apps.index
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}\0.0.filtertrie.intermediate.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}\0.1.filtertrie.intermediate.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}\0.2.filtertrie.intermediate.txt
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{bd1c3f06-bc7e-49df-847e-5efd89adc722}\Apps.ft
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{70ca490f-0f03-41f3-85b3-50ded76727b4}\apps.csg
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalCache\EcsCache0\Ecs.dat
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\Settings\settings.dat
+C:\Windows\Prefetch\LOCALBRIDGE.EXE-D0605207.pf
+C:\ProgramData\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\S-1-5-21-3885014673-3647187677-3810274642-1001\SystemAppData\Helium\Cache\5c3753af4b58aa94.dat
+C:\ProgramData\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\S-1-5-21-3885014673-3647187677-3810274642-1001\SystemAppData\Helium\Cache\5c3753af4b58aa94_COM15.dat
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\SystemAppData\Helium\UserClasses.dat
+C:\Users\toshiki\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\SystemAppData\Helium\User.dat
+C:\Windows\Prefetch\TRUSTEDINSTALLER.EXE-766EFF52.pf
+C:\Windows\Prefetch\SVCHOST.EXE-DB425447.pf
+C:\Windows\Prefetch\TIWORKER.EXE-3A3DA757.pf
+C:\Windows\Prefetch\RUNTIMEBROKER.EXE-D1E4E9EA.pf
+C:\Windows\Prefetch\SVCHOST.EXE-C9E3B372.pf
+C:\Users\toshiki\AppData\Roaming\Microsoft\VisualStudio\16.0_3435369e\AutoRecoverDat
+C:\ProgramData\McAfee\MPF\mpfaddr.dat

@@ -7,3 +7,4 @@ C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Release\AutoBackUp.cspro
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Release\AutoBackUp.csproj.CoreCompileInputs.cache
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Release\AutoBackUp.exe
 C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Release\AutoBackUp.pdb
+C:\Users\toshiki\source\repos\AutoBackUp\AutoBackUp\obj\Release\AutoBackUp.SetupForm.resources

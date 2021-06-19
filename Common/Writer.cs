@@ -2,24 +2,42 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Common
 {
     class Writer
     {
-        private object obj = new object();
+        private static object obj = new object();
 
         public string FilePath { get; set; }
+        private List<string> paths = new List<string>();
 
+        /// <summary>
+        /// コンストラクタ
+        /// </summary>
+        /// <param name="fileName"></param>
         public Writer(string fileName)
         {
-            this.FilePath = Path.Combine(Environment.CurrentDirectory, fileName);
-            if(!File.Exists(FilePath))
+            lock (obj)
             {
-                File.Create(FilePath);
+                this.FilePath = Path.Combine(Environment.CurrentDirectory, fileName);
+                if (!File.Exists(FilePath))
+                {
+                    File.Create(FilePath);
+                }
+                else
+                {
+                    paths = File.ReadAllLines(FilePath).ToList();
+                }
             }
+        }
+
+        /// <summary>
+        /// メモリ内の文言をテキストファイルに書き込む
+        /// </summary>
+        public void Write()
+        {
+            File.WriteAllLines(FilePath, paths);
         }
 
         /// <summary>
@@ -35,13 +53,11 @@ namespace Common
             lock (obj)
             {
                 // ファイルに書き込みたい文字列があった場合は処理終了
-                List<string> lines = File.ReadAllLines(FilePath).ToList();
-                if (lines.Contains(str))
+                if (paths.Contains(str))
                 {
                     return;
                 }
-
-                File.AppendAllText(FilePath,str + Environment.NewLine);
+                paths.Add(str);
             }
         }
 
@@ -53,9 +69,7 @@ namespace Common
         {
             lock (obj)
             {
-                List<string> lines = File.ReadAllLines(FilePath).ToList();
-                lines = lines.FindAll(x => x != str);
-                File.WriteAllLines(FilePath, lines);
+                paths = paths.FindAll(x => x != str);
             }
         }
 
